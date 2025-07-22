@@ -1,0 +1,7 @@
+{
+  "name": "Comprando en Japón - Traductor y Conversor",
+  "description": "Una aplicación para traducir texto en japonés desde imágenes y convertir precios de JPY a EUR usando la cámara de tu dispositivo. También cuenta con un conversor de divisas manual.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
